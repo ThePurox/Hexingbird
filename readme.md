@@ -53,7 +53,7 @@ For the other components the orientation does not matter.
 Next solder in the `RESET` and `BOOT` push buttons, as well as the 10k resistor between them.
 Finally  install the `BAV70` diodes.
 
-Congratulations, you have now soldered in all the necessary electronic components, you can now flash the firmware for the central half on this half and test, whether all keys work. All keys except the tucky thumb should work. The tucky thumb requires a bodge wire to function. Will we add the bodge wire, after soldering the hot-swap sockets.
+Congratulations, you have now soldered in all the necessary electronic components, you can now flash the firmware (see below) for the central half on this half and test, whether all keys work. All keys except the tucky thumb should work. The tucky thumb requires a bodge wire to function. Will we add the bodge wire, after soldering the hot-swap sockets.
 
 The solder pads above and below the USB-jacks, as well as the pads next to the bottom USB-jack are supposed to be left empty.
 
