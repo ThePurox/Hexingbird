@@ -73,7 +73,7 @@ You can now test the left half by flashing the peripheral firmware onto it, conn
 After you have confirmed, that all keys except for the tucky thumbs work, it is time to solder in the hot-swap sockets to the bottom sides of the two halves, i.e. the sides without the MCU.
 
 If you are one of the lucky people that got a PCB at Mechanicon 2024 you have to add a bodge wire as shown in the picture, to each half:
-[bodge wire](bodge.jpg)
+![bodge wire](bodge.jpg)
 
 # Flashing the firmware
 This keyboard is designed for the [FAK-firmware](https://github.com/semickolon/fak).
